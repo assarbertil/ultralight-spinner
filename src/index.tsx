@@ -1,10 +1,5 @@
-import React, { FC, HTMLAttributes } from "react"
-
-export interface Props extends Omit<HTMLAttributes<SVGElement>, "children"> {
-  size?: number
-  strokeWidth?: number
-  rotateSpeed?: number
-}
+import React, { FC } from "react"
+import { Props } from "./types"
 
 export const Spinner: FC<Props> = ({
   size = 20,

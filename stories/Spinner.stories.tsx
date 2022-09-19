@@ -1,6 +1,7 @@
 import React from "react"
 import { Meta, Story } from "@storybook/react"
-import { Spinner, Props } from "../src"
+import { Spinner } from "../src"
+import { Props } from "../src/types"
 
 const meta: Meta = {
   title: "Spinner",

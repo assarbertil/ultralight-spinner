@@ -2,8 +2,7 @@
 
 # ultralight-spinner
 
-[![Blazing Fast](https://badgen.net/npm/v/ultralight-spinner)](https://npm.im/ultralight-spinner)
-[![Blazing Fast](https://badgen.net/bundlephobia/minzip/ultralight-spinner)](https://npm.im/ultralight-spinner)
+[![Blazing Fast](https://badgen.net/npm/v/ultralight-spinner)](https://npm.im/ultralight-spinner) [![Blazing Fast](https://badgen.net/bundlephobia/minzip/ultralight-spinner)](https://npm.im/ultralight-spinner)
 
 A 0.83 kb loading spinner component for React.
 

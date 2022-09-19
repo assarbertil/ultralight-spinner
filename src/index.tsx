@@ -1,9 +1,9 @@
-import React, { FC, HTMLAttributes } from 'react';
+import React, { FC, HTMLAttributes } from "react"
 
-export interface Props extends Omit<HTMLAttributes<SVGElement>, 'children'> {
-  size?: number;
-  strokeWidth?: number;
-  rotateSpeed?: number;
+export interface Props extends Omit<HTMLAttributes<SVGElement>, "children"> {
+  size?: number
+  strokeWidth?: number
+  rotateSpeed?: number
 }
 
 export const Spinner: FC<Props> = ({
@@ -19,7 +19,7 @@ export const Spinner: FC<Props> = ({
       viewBox="0 0 20 20"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
-      style={{ borderRadius: '100vmax' }}
+      style={{ borderRadius: "100vmax" }}
       {...rest}
     >
       <g>
@@ -40,5 +40,5 @@ export const Spinner: FC<Props> = ({
         </path>
       </g>
     </svg>
-  );
-};
+  )
+}

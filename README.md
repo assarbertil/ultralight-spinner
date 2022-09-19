@@ -11,13 +11,13 @@ An 0.83 kb loading spinner component for React.
 ### With npm
 
 ```sh
-npm i the-platform --save
+npm i ultralight-spinner
 ```
 
 ### Or with yarn
 
 ```sh
-yarn add the-platform
+yarn add ultralight-spinner
 ```
 
 ## The component

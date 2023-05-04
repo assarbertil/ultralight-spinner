@@ -4,7 +4,7 @@
 
 [![Blazing Fast](https://badgen.net/npm/v/ultralight-spinner)](https://npm.im/ultralight-spinner) [![Blazing Fast](https://badgen.net/bundlephobia/minzip/ultralight-spinner)](https://npm.im/ultralight-spinner) [![CI](https://github.com/assarbertil/ultralight-spinner/actions/workflows/main.yml/badge.svg)](https://github.com/assarbertil/ultralight-spinner/actions/workflows/main.yml)
 
-An 0.83 kb loading spinner component for React.
+A 0.83 kb loading spinner component for React.
 
 ## Install
 
